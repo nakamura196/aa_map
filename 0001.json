@@ -1,0 +1,80 @@
+{
+    "@context": [
+      "http://iiif.io/api/presentation/2/context.json",
+      "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@type": "cr:Curation",
+    "@id": "https://mp.ex.nii.ac.jp/api/curation/json/fa7447de-b9f4-4315-80c7-42daf84684cf",
+    "label": "Sultan Zahir Bibars",
+    "viewingHint": "annotation",
+    "selections": [
+      {
+        "@id": "https://mp.ex.nii.ac.jp/api/curation/json/fa7447de-b9f4-4315-80c7-42daf84684cf/range1",
+        "@type": "sc:Range",
+        "label": "Markers",
+        "members": [
+          {
+            "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/984/canvas/p1#xywh=1241,698,44,41",
+            "@type": "sc:Canvas",
+            "label": "1",
+            "description": "",
+            "metadata": [
+              {
+                "value": [
+                  {
+                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/01/1849/ndl/1-001",
+                    "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/984/canvas/p1#xywh=1241,698,44,41",
+                    "@type": "oa:Annotation",
+                    "resource": {
+                      "chars": "<div><iframe frameborder=\"no\" height=\"400\" src=\"https://genji-ai-dev.web.app/curation/?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument1/manifest&canvas=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument1/canvas/p1\"></iframe></div><br/><a href=\"http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument1/manifest&pos=1\" target=\"_blank\" class=\"icviewer_link\">IIIF Curation Viewerで開く</a><br/>Title:0001-01<br/>Date Created：2018/04/09<br/>creator：N. Fukami<br/>Function：mosque<br/>exterior/interior/distant view：exterior<br/>オブジェクト種別1：S Gate from S<br/>オブジェクト種別2：façade",
+                      "format": "text/html",
+                      "@type": "cnt:ContentAsText",
+                      "marker": {
+                        "@type": "dctypes:Image",
+                        "@id": "http://codh.rois.ac.jp/edo-maps/icons/icon-5.png#xy=11,27"
+                      }
+                    },
+                    "motivation": "sc:painting"
+                  }
+                ],
+                "label": "Annotation"
+              }
+            ]
+          },
+          {
+            "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/984/canvas/p1#xywh=1170,700,43,38",
+            "@type": "sc:Canvas",
+            "label": "1",
+            "description": "",
+            "metadata": [
+              {
+                "value": [
+                  {
+                    "@id": "http://codh.rois.ac.jp/edo-maps/owariya/01/1849/ndl/1-002",
+                    "on": "https://islamic-architecture.aa-ken.jp/omekas/iiif/2/984/canvas/p1#xywh=1170,700,43,38",
+                    "@type": "oa:Annotation",
+                    "resource": {
+                      "chars": "<div><iframe frameborder=\"no\" height=\"400\" src=\"https://genji-ai-dev.web.app/curation/?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument1/manifest&canvas=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument1/canvas/p2\"></iframe></div><br/><a href=\"http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://islamic-architecture.aa-ken.jp/omekas/iiif/2/monument1/manifest&pos=2\" target=\"_blank\" class=\"icviewer_link\">IIIF Curation Viewerで開く</a><br/>Title:0001-02<br/>Date Created：2018/04/09<br/>creator：N. Fukami<br/>Function：mosque<br/>exterior/interior/distant view：interior<br/>オブジェクト種別1：S Gate from S<br/>オブジェクト種別2：detail",
+                      "format": "text/html",
+                      "@type": "cnt:ContentAsText",
+                      "marker": {
+                        "@type": "dctypes:Image",
+                        "@id": "http://codh.rois.ac.jp/edo-maps/icons/icon-5.png#xy=11,27"
+                      }
+                    },
+                    "motivation": "sc:painting"
+                  }
+                ],
+                "label": "Annotation"
+              }
+            ]
+          }
+        ],
+        "within": {
+          "@id": "https://islamic-architecture.aa-ken.jp/omekas/iiif/984/manifest",
+          "@type": "sc:Manifest",
+          "label": "CAD図面No.01"
+        }
+      }
+    ]
+  }
