@@ -31,7 +31,7 @@
                       "@type": "cnt:ContentAsText",
                       "marker": {
                         "@type": "dctypes:Image",
-                        "@id": "http://codh.rois.ac.jp/edo-maps/icons/icon-5.png#xy=11,27"
+                        "@id": "https://cdn.mapmarker.io/api/v1/pin?size=50&background=%23F44E3B&text=01&color=%23FFFFFF&voffset=0&hoffset=0#xy=25,40"
                       }
                     },
                     "motivation": "sc:painting"
@@ -59,7 +59,7 @@
                       "@type": "cnt:ContentAsText",
                       "marker": {
                         "@type": "dctypes:Image",
-                        "@id": "http://codh.rois.ac.jp/edo-maps/icons/icon-5.png#xy=11,27"
+                        "@id": "https://cdn.mapmarker.io/api/v1/pin?size=50&background=%23F44E3B&text=02&color=%23FFFFFF&voffset=0&hoffset=0#xy=25,40"
                       }
                     },
                     "motivation": "sc:painting"
